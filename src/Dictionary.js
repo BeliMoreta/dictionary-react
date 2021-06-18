@@ -11,7 +11,7 @@ alert("Searching");
 return (
 <div className="Dictionary">
     <form onSubmit={Search}>  
-        <imput  type="search" autoFocus={true} />  
+        <input type="search" autoFocus={true} />  
      </form>
 </div>
 );
