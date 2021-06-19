@@ -27,7 +27,7 @@ function App() {
         
       <span className="copyright">© Coded by BeliMoreta</span>
           <br></br>
-        <a href="https://github.com/BeliMoreta/my-weather-react">GitHub</a>
+        <a href="https://github.com/BeliMoreta/dictionary-react">GitHub</a>
         <br></br>
         <a href="https://www.linkedin.com/in/isabel-aguado-moreta-101a69126/">Linkedin</a>
 
