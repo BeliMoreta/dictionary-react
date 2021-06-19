@@ -9,6 +9,7 @@ function App() {
 
      
       <header className="App-header">
+      <br></br>
         <img src={logo} className="App-logo" alt="logo" />
         <br></br>
         <div className="Name">Dictionary React </div>
