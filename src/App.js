@@ -11,12 +11,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <br></br>
-Dictionary React 
+        <div className="Name">Dictionary React </div>
+        <br></br>
       </header>
 
 <main>
 <div>
-<Dictionary />
+<Dictionary defaultKeyword="Sunset"/>
+<br></br>
 </div>
 </main>
 

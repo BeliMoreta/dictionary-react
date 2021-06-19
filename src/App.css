@@ -7,7 +7,19 @@
   height: 20vmin;
   pointer-events: none;
   color: white;
-  background-color: rgb(33, 33, 82);
-
+  border: rgb(42, 66, 117) 2px solid;
+  background-image: linear-gradient(to top, #406fc5 0%, #92a1e2 100%);
+  border-radius: 100px;
+  padding: 15px 15px;
+  max-width: 500px;
+  margin: 0 auto;
   
+}
+
+.Name {
+  text-align: center;
+  font-family: "Chivo", sans-serif;
+  color: rgb(42, 66, 117);
+  font-weight: bolder;
+  font-size: 20px;
 }
