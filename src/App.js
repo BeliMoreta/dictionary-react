@@ -25,12 +25,12 @@ function App() {
 
       <footer> 
         
-      <span className="copyright">© Coded by BeliMoreta</span>
+      <div className="copyright">© Coded by BeliMoreta
           <br></br>
         <a href="https://github.com/BeliMoreta/dictionary-react">GitHub</a>
         <br></br>
         <a href="https://www.linkedin.com/in/isabel-aguado-moreta-101a69126/">Linkedin</a>
-
+        </div>
       </footer> 
 
       </div>

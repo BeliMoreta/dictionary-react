@@ -1,8 +1,10 @@
 .App {
-  text-align: center;
+
+  background-color: rgb(212, 193, 193);
 }
 
 .App-logo {
+  display: block;
   text-align: center;
   height: 20vmin;
   pointer-events: none;
@@ -22,4 +24,9 @@
   color: rgb(42, 66, 117);
   font-weight: bolder;
   font-size: 20px;
+}
+
+.copyright {
+  text-align: center;
+
 }
