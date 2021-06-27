@@ -2,3 +2,21 @@
     display: block;
     text-align: left;
 }
+
+.Meaning .Definition {
+color:rgb(0, 0, 0);
+font-size: 16px;
+
+}
+
+.Meaning h3{
+text-transform: Capitalize;
+font-size: 22px;
+
+}
+
+.Meaning .Example {
+    font-size: 16px;
+    opacity: 0.7;
+    
+    }
