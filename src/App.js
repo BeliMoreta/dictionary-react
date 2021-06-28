@@ -1,6 +1,9 @@
 import logo from './Libro.png';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Dictionary from "./Dictionary";
+
+
 
 function App() {
   return (
@@ -27,12 +30,12 @@ function App() {
         
       <div className="copyright">© Coded by BeliMoreta
           <br></br>
-        <a href="https://github.com/BeliMoreta/dictionary-react">GitHub</a>
+        <strong> <a href="https://github.com/BeliMoreta/dictionary-react">GitHub</a></strong>
         <br></br>
-        <a href="https://www.linkedin.com/in/isabel-aguado-moreta-101a69126/">Linkedin</a>
+        <strong><a href="https://www.linkedin.com/in/isabel-aguado-moreta-101a69126/">Linkedin</a></strong>
         </div>
       </footer> 
-
+      <br></br>
       </div>
     </div>
   );

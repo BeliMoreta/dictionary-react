@@ -1,6 +1,7 @@
 .Meaning {
     display: block;
     text-align: left;
+    
 }
 
 .Meaning .Definition {
@@ -18,5 +19,6 @@ font-size: 22px;
 .Meaning .Example {
     font-size: 16px;
     opacity: 0.7;
+    font-style: italic;
     
     }
